@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a **GithubSearch** application that searches for user and displays their profile info using the ***Github API.***
+This is a **GitSearch** application that searches for user and displays their profile info using the ***Github API.***
 
 This is a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories.
 
@@ -22,7 +22,7 @@ GitHub API was used to retrieve this information. This API allows **5,000** requ
 
 # Prerequisites
 
-To work with GithubSearch you need to have some few prerequisites.
+To work with GitSearch you need to have some few prerequisites.
 
 This include the following mentioned below.
 

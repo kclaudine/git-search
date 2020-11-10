@@ -41,6 +41,15 @@ If you dont have this requirements you could use the link above to help with the
 
 No known bugs at the moment.
 
+## Technologies used
+
+* HTML
+* CSS
+* Angular
+* Bootstrap
+* Angular CLI
+* Type Script
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.

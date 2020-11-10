@@ -1,7 +1,5 @@
 # GitSearch
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
-
 ## Author 
 
 [claudine kuradusenge](https://github.com/kclaudine/git-search.git)
@@ -13,6 +11,14 @@ This is a **GithubSearch** application that searches for user and displays their
 This is a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories.
 
 GitHub API was used to retrieve this information. This API allows **5,000** requests per hour with an API key, but only 60 requests per hour _without_ one.
+
+## User Story
+
+- Users can enter Github user info info a form and submit it.
+
+- Users can see names and descriptions of person's public repositories.
+
+- Users can make up to 5000 requests per hour due to Github-API integration.
 
 ## Development server
 

@@ -50,6 +50,13 @@ No known bugs at the moment.
 * Angular CLI
 * Type Script
 
+## Support and Contact
+
+For any question, comment or suggestion please reach out to me on this email: claudinekuradusenge2@gmail.com
+
+- github-username: kclaudine
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.

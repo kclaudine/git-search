@@ -60,4 +60,4 @@ For any question, comment or suggestion please reach out to me on this email: cl
 
 This project is licensed under the MIT License 
 
-Copyright (c) 202
+Copyright (c) 2020

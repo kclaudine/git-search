@@ -37,6 +37,9 @@ This include the following mentioned below.
 
 If you dont have this requirements you could use the link above to help with the installation guide.
 
+## Known Bugs
+
+No known bugs at the moment.
 
 ## Development server
 
